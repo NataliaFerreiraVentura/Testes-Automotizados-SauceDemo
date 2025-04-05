@@ -15,7 +15,6 @@
     "core-js": "^3.38.0",
     "create-ecdh": "^4.0.4",
     "crypto-browserify": "^3.12.0",
-    "cypress": "^13.13.2",
     "elliptic": "^6.5.6",
     "faker": "^5.5.3",
     "reflect-metadata": "^0.2.2"
@@ -28,6 +27,7 @@
     "@babel/plugin-transform-class-properties": "^7.24.7",
     "@babel/plugin-transform-object-rest-spread": "^7.24.7",
     "@cucumber/cucumber": "^10.8.0",
+    "cypress": "^14.2.1",
     "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
